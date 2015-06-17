@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="PostgreSQL - myrailsapp_production@localhost" uuid="88962167-36e3-40a3-b312-1ce6544fad11">
+      <secret-storage>master_key</secret-storage>
+      <user-name>myrailsapp</user-name>
+      <schema-pattern>myrailsapp_production.pg_catalog myrailsapp_production.public</schema-pattern>
+      <default-schemas>myrailsapp_production.pg_catalog myrailsapp_production.public</default-schemas>
+    </data-source>
+    <data-source name="PostgreSQL - myrailsapp_development@localhost" uuid="387116d4-5e0d-4924-9038-ed49ca3c3f34">
+      <secret-storage>master_key</secret-storage>
+      <user-name>myrailsapp</user-name>
+      <schema-pattern>myrailsapp_development.pg_catalog myrailsapp_development.public</schema-pattern>
+      <default-schemas>myrailsapp_development.pg_catalog myrailsapp_development.public</default-schemas>
+    </data-source>
+  </component>
+</project>

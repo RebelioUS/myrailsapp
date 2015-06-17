@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3650994">
+    <data-source source="LOCAL" name="PostgreSQL - myrailsapp_production@localhost" uuid="88962167-36e3-40a3-b312-1ce6544fad11">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/myrailsapp_production</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="PostgreSQL - myrailsapp_development@localhost" uuid="387116d4-5e0d-4924-9038-ed49ca3c3f34">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/myrailsapp_development</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
